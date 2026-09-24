@@ -1,0 +1,9 @@
+# Environments & Secrets
+backend/.env
+backend/.venv/
+backend/env/
+backend/venv/
+
+# Python cache
+**/__pycache__/
+*.pyc

@@ -1,9 +1,9 @@
 fastapi
 uvicorn
 python-settings
-
-
-
+sqlmodel
+python-dotenv
+httpx
 
 
 
